@@ -1,0 +1,20 @@
+8 - 31 Notes
+
+Interval Scheduling
+
+	*Look at the first time* - only option is to choose bio & chem
+
+		|-----Bio-----|          |----Chem----|
+			    |-----Math----|
+	
+	*if optimization was to pick shortest time span first* -- only math
+
+	*what would happen with a greedy algorithm?* -- the most classes possible would be picked
+
+	# a greedy algorithm (unweighted) would try to accumulate the most classes, where as a weighted would depend on
+	# something like credit hours
+
+	*HOW DO WE SOLVE THIS?!*
+		~Dynamic Programming~
+
+	
